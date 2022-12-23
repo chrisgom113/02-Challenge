@@ -20,7 +20,7 @@ Once a user accesses the live webpage using the link listed below, the following
 
 Screenshot#1 Top half of page
 
-![alt text](UCR-VIRT-FSF-PT-12-2022-U-LOLC/01-HTML-Git-CSS/02-Challenge/Develop/assets/images/Top half.png)
+![Top half of page](UCR-VIRT-FSF-PT-12-2022-U-LOLC/01-HTML-Git-CSS/02-Challenge/Develop/assets/images/Top half.png)
 
 Screenshot#2 Bottom half of page
 
