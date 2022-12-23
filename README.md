@@ -18,6 +18,8 @@ N/A
 
 Once a user accesses the live webpage using the link listed below, the following should be visible.
 
+https://chrisgom113.github.io/02-Challenge/
+
 Screenshot#1 Top half of page
 
 ![Top half of page](./Develop/assets/images/Top%20half.png)
