@@ -20,16 +20,23 @@ Once a user accesses the live webpage using the link listed below, the following
 
 Screenshot#1 Top half of page
 
-![Top half of page](UCR-VIRT-FSF-PT-12-2022-U-LOLC/01-HTML-Git-CSS/02-Challenge/Develop/assets/images/Top half.png)
+![Top half of page](./Develop/assets/images/Top%20half.png)
 
 Screenshot#2 Bottom half of page
 
-![alt text](UCR-VIRT-FSF-PT-12-2022-U-LOLC/01-HTML-Git-CSS/02-Challenge/Develop/assets/images/Bottom Half.png)
+![Bottom half of page](./Develop/assets/images/Bottom%20Half.png)
 
 Screenshot#3 Demonstrating the link functionality with a same page element being referenced. The red arrow shows one example of a 'nav' link and the corresponding element it links to.
 
-![alt text](UCR-VIRT-FSF-PT-12-2022-U-LOLC/01-HTML-Git-CSS/02-Challenge/Develop/assets/images/Link Functionality.png)
+![Demonstrates link functionality](./Develop/assets/images/Link%20Functionality.png)
 
+## Credits
+
+N/A
+
+## Licenses
+
+None
 
 
 
